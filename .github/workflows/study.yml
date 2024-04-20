@@ -5,7 +5,7 @@ on:
     inputs:
       lessons:
         default: 1
-        description: 'Number of lessons to be completed'
+        description: 'quantos x'
         required: false
         type: number
 
